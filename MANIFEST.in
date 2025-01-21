@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include ovkfusion *.py
+recursive-include tests *.py
